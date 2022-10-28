@@ -1,0 +1,42 @@
+body
+{
+text-align: center;
+    background-color: hotpink ;
+}
+h1
+{
+color: white;
+font-family: verdana;
+font-size: 3em;
+}
+div
+{
+border: 2px solid whitesmoke;
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+border-radius: 25px;
+padding: 15px 32px;
+text-align: center;
+}
+
+button
+{
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 26px;
+    background-color: lightsteelblue;
+    height: 50px;
+    margin-top: 3px;
+    
+
+}
+
+button:hover {
+    background-color: black;
+    color: lightsteelblue;
+    border: 2px solid white;
+    transform: rotate(5deg) ;
+    box-shadow: 30px;
+    cursor: pointer;
+}
