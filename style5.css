@@ -1,0 +1,50 @@
+body
+{
+float: left;
+text-align: center;
+}
+
+
+div
+{
+    height: 175px;
+    width: 32%;
+    border: 2px solid rgb(38, 0, 128);
+    float: left;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+h1
+{
+    
+    background-color: rgb(112, 167, 226);
+    color: white;
+    width: 100%;
+    border: 2px solid rgb(38, 0, 128);
+   
+}
+
+.c2
+{
+    background-color: rgb(112, 167, 226) ;
+    height: 30px;
+    border: 2px solid rgb(38, 0, 128);
+    border-radius: 5px;
+    width: 100%;
+    float: left;
+}
+
+h2
+{
+    margin-top: 5px;
+}
+
+.c1 
+{
+    background-color: khaki;
+    float: left;
+}
+.t2
+{
+    margin-top: 220px;
+}

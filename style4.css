@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(122, 78, 173);
+    text-align: center;
+}
+
+.c1
+{
+
+    height: 300px;
+    width: 150px;
+    border: 2px solid purple;
+    float: left;
+    margin-right: 20px;
+}
+.c1
+{
+background-color: brown;
+}
+.c2
+{
+background-color: rgb(253, 253, 252);
+
+}
+.c3
+{
+background-color: burlywood;
+}
+.c4
+{
+    clear: initial;
+}
