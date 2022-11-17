@@ -1,0 +1,33 @@
+body{
+	background-color: #808080;
+	text-align: center;
+	margin: 50px;
+}
+
+div{
+    border: 2px solid black;
+}
+
+ul li{
+    width: 200px;
+    height: 50px;
+    border:  2px solid rgb(248, 248, 248);
+    background-color: #f21717;
+    list-style: none;
+    color: rgb(154, 38, 110);
+    font-size: 18px;
+    padding-left: 10px;
+    line-height: 50px;
+}
+
+ul li:hover{
+    cursor: pointer;
+    width: 250px;
+    background-color:#abbc65 ;
+    color: #77da77;
+    text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+    font-weight: bold;
+    border: 3px solid rgb(204, 217, 150);
+    padding-left: 40px;
+    transition:all 1s;
+}
